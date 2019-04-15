@@ -1,34 +1,34 @@
 Data Science is changing the universe of analytics. With the help of diligent insights that companies get their hands on with the careful analysis of data gives them the advantage to survive the competition of this world. This is the reason companies are in a very active search for good Data Science professionals. Today we shall discuss as to why Data science certification can be a very good career option for you. Here are the top 8 reasons for it.
 
-# Better practical knowledge
+### Better practical knowledge
 One of the best parts about e-learning is that you get the chance to gain from industry experts who have worked in a similar field for a considerable length of time. You get the opportunity to learn and work with the showcasing apparatuses that are utilized broadly. For example, in a web examination course, understudies may get the chance to work with a real Google Analytics account—an instrument that they would almost certainly use once they're working in a data analyst position.
 
-# One of the top priorities for a lot of organizations
+### One of the top priorities for a lot of organizations
 About 77% of top associations consider data analytics a basic factor of their business development. As a big data analytics is proficient, you will break down a colossal volume of information so as to touch base at basic business bits of knowledge, which can hugely affect an organization's strategy and advertising procedures. As indicated by the Bureau of Labor Statistics, almost 9 percent of those working in PC and math occupations were guaranteed in their field. It's insufficient to just gain proficiency with the abilities expected to prevail in this industry. So as to transcend the challenge and emerge, it's vital to likewise get confirmed.
 
-# Options to work in different domains
+### Options to work in different domains
 As a data analytics proficient, you're not typically restricted to working in a specific industry, which can be a gigantic favorable position. Each industry profits by information examination. A portion of the center businesses where you can see an intense interest for information examination experts incorporate budgetary, medicinal services, retail, coordination’s and human asset the executives. For instance, if an online retailer dispatches an AdWords battle, an information expert can be an important resource by assessing the information from that crusade. This can enable the retailer to perceive what worked, what didn't, and how future crusades ought to be executed.
 
-# Huge Surge in the demand for analytics experts
+### Huge Surge in the demand for analytics experts
 The present interest for qualified information experts is only the start. Innovation experts who are knowledgeable about analytics are in extreme interest, as associations are searching for approaches to abuse the intensity of enormous information. The quantity of employment in the Big Data industry has expanded by 106% from the time of 2014 to 2017 considerably. This evident flood is because of the expanded number of associations executing examination and, in this way, searching for analytics experts. 
 
 Through an examination from QuinStreet Inc., it was uncovered that the pattern of executing big data analytics is developing and is viewed as a high need among U.S. organizations. A lion's share of the associations are either during the time spent actualizing it, or they're effectively intending to include this element inside the following two years.
 
-# Great Job Opportunities & Meeting the Skills Gap
+## Great Job Opportunities & Meeting the Skills Gap
 The interest for analytics experts is expanding relentlessly, however, there is a colossal shortage on the supply side. This is going on all-inclusive and isn't confined to any piece of the world. Regardless of Big Data Analytics being a sought-after position, there is as yet countless employments over the globe because of a deficiency of required abilities. Those keen on learning the abilities required for this rapidly developing calling can get the hang of all that they need through an online confirmation course. 
 
 A McKinsey Global Institute think about states that the U.S. will confront a deficiency of around 190,000 information researchers and 1.5 million supervisors and examiners who can comprehend and settle on choices utilizing enormous information by 2018. India at present has the most noteworthy convergence of examination universally. Regardless of this, the shortage of data analytics ability is especially intense, and interest for ability is required to be on the higher side as progressively worldwide associations are redistributing their work.
 
-# No fundamentals required for taking the accreditation
+### No fundamentals required for taking the accreditation
 Almost anybody can learn and finish a data analysis accreditation. It doesn't require any essentials. You can be new out of school hoping to discover some new information. For whatever length of time that you contribute the time and exertion expected to prevail in the course, you ought to have the capacity to get your accreditation. Furthermore, more vitally, you'll fabricate the abilities required for turning into effective data analytics proficient.
 
-# Good Earnings Aspects
+#### Good Earnings Aspects
 Strong interest in information investigation aptitudes is boosting the wages for qualified experts. As per the 2015 Skills and Salary Survey Report by cmo.com that the Institute of Analytics Professionals of Australia (IAPA) distributed, the yearly middle compensation for information examiners is $130,000: a four percent expansion from a year ago. A gander at the compensation pattern for huge information investigation in the UK likewise demonstrates positive and exponential development. A speedy pursuit on Itjobswatch.co.uk demonstrates a middle compensation of £62,500 in mid-2016 for big data analytics occupations, when contrasted with £55,000 in 2015. A year-on-year middle compensation change of +13.63% is likewise watched.
 
-# Organized learning method
+#### Organized learning method
 By experiencing organized data analytics certification courses, you gain proficiency with every one of the real fields of data analytics in a sorted out, consistent way. Given how powerful the business is, having this structure while you are learning is pivotal. Something else, in the event that you simply learn by perusing a blog or viewing a video, you just get snippets of data, and you don't assemble a profound comprehension of how everything works.
 
-# Conclusion
+#### Conclusion
 As is evident from the above discussion you can see that pursuing a certification in Data Science can take you a long way in building a successful career. It is a great career option to go for. With the advent of an era of online training, many amazing training platforms have come up such as JanBask Training who deliver excellent online Data Science Certification course.
 
 
